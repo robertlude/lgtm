@@ -17,7 +17,7 @@ LGTM with random emoji copied to clipboard
 
 `~/.bash_profile` or `~/.bashrc`
 ```bash
-alias lgtm='~/code/robertlude/lgtm.rb'
+alias lgtm='~/code/robertlude/lgtm/lgtm.rb'
 ```
 
 ```
